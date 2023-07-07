@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yashgupta13
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning C++,SQL
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me yashgupta5809@gamil.com
+Hey there, I'm Yash Gupta.
+Currently I'm working with Java & C++
+Get in touch- IG -yash.gupta13
+            - Mail - yashgupta5809@gmail.com
 
 <!---
 yashgupta13/yashgupta13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
