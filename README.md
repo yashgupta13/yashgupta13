@@ -1,5 +1,5 @@
 - Hey there, I’m Yash gupta
-- Currently I'm working with Java & C++
+- Currently I'm working on C,C++,Java & SQL
 - Get in touch - IG @yash.gupta13
 - Email- yashgupta5809@gmail.com
 <!---
