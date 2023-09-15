@@ -1,5 +1,5 @@
 - Hey there, I’m Yash gupta
-- Currently I'm working on C,C++,Java & SQL
+- Currently I'm working on C,Java & SQL
 - Email- yashgupta5809@gmail.com
 <!---
 yashgupta13/yashgupta13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
