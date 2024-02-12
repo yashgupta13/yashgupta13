@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A Undergraduate Technology Enthusiast</h3>
+<h3 align="center">A Undergraduate Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Java , Machine Learning , Linux and Web Development**
 
